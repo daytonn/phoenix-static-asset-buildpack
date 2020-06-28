@@ -1,0 +1,4 @@
+node_modules/
+node/
+cache_dir/*
+env_dir/*
